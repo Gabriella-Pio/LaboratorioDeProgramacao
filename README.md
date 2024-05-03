@@ -15,8 +15,11 @@
 - Difícil: 1 tentativas de chute da PALAVRA
 
 ### "Chute a palavra"
-- Se a palavra tiver 5 letras (diminuir 1 letra e pedir o chute do jogador)
-- Se a palavra tiver 8 letras (diminuir 3 letras e pedir o chute do jogador)
+- Se a palavra tiver 1 a 4 letras (não diminui letras e pedir o chute do jogador)
+- Se a palavra tiver 5 a 7 letras (diminuir 1 letra e pedir o chute do jogador)
+- Se a palavra tiver 8 a 10 letras (diminuir 2 letras e pedir o chute do jogador)
+- Se a palavra tiver 11 a 13 letras (diminuir 3 letras e pedir o chute do jogador)
+- Se a palavra tiver 14 a 17 letras (diminuir 4 letras e pedir o chute do jogador)
 - Usar estrutura condicional
 
 ### Final
