@@ -27,7 +27,3 @@
 ### Final
 - "Parabéns {nome}!! Você venceu o jogo!
 - Sinto muito {nome} :( Suas tentativas acabaram.
-
-## Variáveis
-- NOME -> Nome do jogador
-- CATEGORIA -> fruta, animal, parte do corpo humano, marcas famosas, desenhos populares, profissões, filmes populares, linguagens de programação;
