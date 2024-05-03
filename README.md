@@ -5,7 +5,7 @@
 ## Jogo da Forca
 ### Características gerais:
 - Bem-vindo ao jogo da forca! Vamos começar:
-- Insire seu nome:
+- Insira seu nome:
 - A categoria escolhida é: (Sistema seleciona uma categoria)
 - Mostrar o boneco com caracteres (quando errar "desenha" uma parte do corpo) -> 6 tentativas de LETRAS
 - Usar um espaço entre cada underline que indica o tamanho da palavra:
@@ -27,3 +27,7 @@
 ### Final
 - "Parabéns {nome}!! Você venceu o jogo!
 - Sinto muito {nome} :( Suas tentativas acabaram.
+
+## Variáveis
+- NOME -> Nome do jogador
+- CATEGORIA -> fruta, animal, parte do corpo humano, marcas famosas, desenhos populares, profissões, filmes populares, linguagens de programação;
