@@ -5,10 +5,11 @@
 ## Jogo da Forca
 ### Características gerais:
 - Bem-vindo ao jogo da forca! Vamos começar:
-- Insere seu nome:
+- Insire seu nome:
 - A categoria escolhida é: (Sistema seleciona uma categoria)
 - Mostrar o boneco com caracteres (quando errar "desenha" uma parte do corpo) -> 6 tentativas de LETRAS
-- Usar um espaço entre cada underline que indica o tamanho da palavra (Exemplo: maça == _ _ _ _ == "_" + " " + "_" + " " + "_" + " " + "_")
+- Usar um espaço entre cada underline que indica o tamanho da palavra:
+- Exemplo: maça == _ _ _ _ == "_" + " " + "_" + " " + "_" + " " + "_"
 
 ### Nível de dificuldade:
 - Fácil: 3 tentativas de chute da PALAVRA
