@@ -17,10 +17,10 @@
 
 ### "Chute a palavra"
 - Se a palavra tiver 1 a 4 letras (não limitar tentativa LETRA e pedir o chute do jogador)
-- Se a palavra tiver 5 a 7 letras (limitar tentativa 1 LETRA e pedir o chute do jogador)
-- Se a palavra tiver 8 a 10 letras (limitar tentativa 2 LETRA e pedir o chute do jogador)
-- Se a palavra tiver 11 a 13 letras (limitar tentativa 3 LETRA e pedir o chute do jogador)
-- Se a palavra tiver 14 a 17 letras (limitar tentativa 4 LETRA e pedir o chute do jogador)
+- Se a palavra tiver 5 a 7 letras (limitar 1 tentativa LETRA e pedir o chute do jogador)
+- Se a palavra tiver 8 a 10 letras (limitar 2 tentativas LETRA e pedir o chute do jogador)
+- Se a palavra tiver 11 a 13 letras (limitar 3 tentativas LETRA e pedir o chute do jogador)
+- Se a palavra tiver 14 a 17 letras (limitar 4 tentativas LETRA e pedir o chute do jogador)
 - Usar estrutura condicional
 
 ### Final
