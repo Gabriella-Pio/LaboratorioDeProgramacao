@@ -1,6 +1,6 @@
 # Laboratorio de Programação | 03.05
 - Projeto da matéria de Laboratório de Programação.
-> Alunos: Gabriella Pio, Daniel de Souza, Nicollas, Gabriel Machado, Rodrigo Aguiar. <
+> Alunos: Gabriella Pio, Daniel de Souza, Nicollas, Gabriel Machado, Rodrigo Aguiar.
 
 ## Jogo da Forca
 ### Características gerais:
