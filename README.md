@@ -24,6 +24,9 @@
 - Se a palavra tiver 14 a 17 letras (limitar 4 tentativas LETRA e pedir o chute do jogador)
 - Usar estrutura condicional
 
+### Dicas
+- Banco de dados de acordo com cada palavra dando dicas referentes a palavra escondida.
+
 ### Final
 - "Parabéns {nome}!! Você venceu o jogo!
 - Sinto muito {nome} :( Suas tentativas acabaram.
